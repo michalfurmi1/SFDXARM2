@@ -1319,6 +1319,7 @@
         <members>AuthorizationFormText.Locale</members>
         <members>AuthorizationFormText.Name</members>
         <members>AuthorizationFormText.SummaryAuthFormText</members>
+        <members>Broker__c.Broker_Id__c</members>
         <members>BusinessBrand.Name</members>
         <members>BusinessBrand.OrgId</members>
         <members>BusinessBrand.OwnerId</members>
