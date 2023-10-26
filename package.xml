@@ -1075,6 +1075,10 @@
         <name>PermissionSet</name>
     </types>
     <types>
+        <members>PropertyController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
