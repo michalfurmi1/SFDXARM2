@@ -3,7 +3,7 @@ public with sharing class PropertyController {
     private static final Integer DEFAULT_PAGE_SIZE = 9;
 
     /**
-     * Endpoint that retrieves a paged and filtered list of lists
+     * Endpoint that retrieves a paged and filtered list of listsV2, Lists are visible
      * @param searchKey String used for searching on property title, city and tags
      * @param maxPrice Maximum price
      * @param minBedrooms Minimum number of bedrooms
