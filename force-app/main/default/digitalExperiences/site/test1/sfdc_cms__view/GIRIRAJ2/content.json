@@ -1,0 +1,70 @@
+{
+  "type" : "sfdc_cms__view",
+  "title" : "GIRIRAJ2",
+  "contentBody" : {
+    "component" : {
+      "children" : [ {
+        "children" : [ {
+          "attributes" : {
+            "backgroundImageConfig" : "",
+            "backgroundImageOverlay" : "rgba(0,0,0,0)",
+            "componentSpacerSize" : "",
+            "layoutDirectionDesktop" : "row",
+            "layoutDirectionMobile" : "column",
+            "layoutDirectionTablet" : "column",
+            "maxContentWidth" : "",
+            "sectionColumnGutterWidth" : "",
+            "sectionConfig" : "{\"UUID\":\"231d7ee3-3a37-4898-ae2d-75f05fffaf6b\",\"columns\":[{\"UUID\":\"5fa5de64-4b8d-4b5d-977b-6fd0b38c1a2c\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":[]}]}",
+            "sectionMinHeight" : "",
+            "sectionVerticalAlign" : "flex-start"
+          },
+          "children" : [ {
+            "children" : [ {
+              "attributes" : {
+                "imageInfos" : "",
+                "richTextValue" : "<p>Use this HTML Editor to add your own markup.</p>"
+              },
+              "definition" : "community_builder:htmlEditor",
+              "id" : "d435bfb9-ed44-4875-a95d-fb69dc1eb2e7",
+              "type" : "component"
+            } ],
+            "id" : "5fa5de64-4b8d-4b5d-977b-6fd0b38c1a2c",
+            "name" : "col1",
+            "title" : "Column 1",
+            "type" : "region"
+          } ],
+          "definition" : "community_layout:section",
+          "id" : "231d7ee3-3a37-4898-ae2d-75f05fffaf6b",
+          "type" : "component"
+        } ],
+        "id" : "88c40fed-7231-4a80-a7df-478e39f1a9de",
+        "name" : "content",
+        "title" : "Content",
+        "type" : "region"
+      }, {
+        "children" : [ {
+          "attributes" : {
+            "customHeadTags" : "",
+            "description" : "",
+            "pageTitle" : "GIRIRAJ2",
+            "recordId" : "{!recordId}"
+          },
+          "definition" : "community_builder:seoAssistant",
+          "id" : "c07f0340-3157-4a86-94b1-db56346647d5",
+          "type" : "component"
+        } ],
+        "id" : "31bb9612-d522-4a22-ad8f-22b817badd6e",
+        "name" : "sfdcHiddenRegion",
+        "title" : "sfdcHiddenRegion",
+        "type" : "region"
+      } ],
+      "definition" : "community_layout:sldsFlexibleLayout",
+      "id" : "ef9beaf7-a08d-457e-8a71-c28d606d6acd",
+      "type" : "component"
+    },
+    "dataProviders" : [ ],
+    "themeLayoutType" : "Inner",
+    "viewType" : "custom-giriraj2"
+  },
+  "urlName" : "giriraj2"
+}

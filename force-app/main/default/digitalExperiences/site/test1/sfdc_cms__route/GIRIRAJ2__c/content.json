@@ -1,0 +1,12 @@
+{
+  "type" : "sfdc_cms__route",
+  "title" : "GIRIRAJ2",
+  "contentBody" : {
+    "activeViewId" : "GIRIRAJ2",
+    "configurationTags" : [ ],
+    "pageAccess" : "UseParent",
+    "routeType" : "custom-giriraj2",
+    "urlPrefix" : "giriraj2"
+  },
+  "urlName" : "giriraj2"
+}
