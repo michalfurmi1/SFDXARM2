@@ -1,0 +1,2 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastActivityDate,LastViewedDate,LastReferencedDate,Purpose_of_Trip__c,Status__c,Trip_Start_Date__c,Trip_End_Date__c,Out_of_State__c,Destination_State__c,Department__c
+"a01WU00000IfFOvYAN","005WU000001neEMYAY","false","TA-00001","2024-07-26T15:58:24.000Z","005WU000001neEMYAY","2024-07-26T15:58:24.000Z","005WU000001neEMYAY","2024-07-26T15:58:24.000Z",,,,"Attend Dreamforce","Draft","2024-08-01","2024-08-08","true","CA","a00WU00000C5ynuYAB"
