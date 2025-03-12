@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>59.0</version>
+    <version>58.0</version>
     <types>
         <members>PropertyController</members>
         <name>ApexClass</name>
@@ -1004,6 +1004,8 @@
         <members>DataUsePurpose.LegalBasisId</members>
         <members>DataUsePurpose.Name</members>
         <members>DataUsePurpose.OwnerId</members>
+        <members>DevLog__c.Active__c</members>
+        <members>DevLog__c.Text__c</members>
         <members>DigitalWallet.AccountId</members>
         <members>DigitalWallet.AuditEmail</members>
         <members>DigitalWallet.Comments</members>
@@ -2540,6 +2542,7 @@
         <members>DandBCompany</members>
         <members>DataUseLegalBasis</members>
         <members>DataUsePurpose</members>
+        <members>DevLog__c</members>
         <members>DigitalWallet</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
@@ -3273,11 +3276,11 @@
         <name>RemoteSiteSetting</name>
     </types>
     <types>
-        <members>EBotR_v3</members>
-        <members>EBotR_v4</members>
-        <members>EBotR_v5</members>
-        <members>EinsteinBotReports</members>
-        <members>EinsteinBotReports_v2</members>
+        <members>EBotR_v3/</members>
+        <members>EBotR_v4/</members>
+        <members>EBotR_v5/</members>
+        <members>EinsteinBotReports/</members>
+        <members>EinsteinBotReports_v2/</members>
         <members>unfiled$public/flow_screen_prebuilt_report</members>
         <name>Report</name>
     </types>
