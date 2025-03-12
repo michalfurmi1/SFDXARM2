@@ -8,7 +8,7 @@
     "versionNumber" : "0.1.0.NEXT"
   }, {
     "path" : "PROPERTYPARTS",
-    "default" : true,
+    "default" : false,
     "package" : "PROPERTYPARTS",
     "versionName" : "PROPERTYPARTS",
     "versionNumber" : "1.0.0.0"
@@ -19,6 +19,13 @@
     "scopeProfiles" : "false",
     "versionName" : "ver 0.1",
     "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "DevPackage",
+    "default" : true,
+    "package" : "DevPackage",
+    "scopeProfiles" : "false",
+    "versionName" : "DevPackage",
+    "versionNumber" : "1.0.0.0"
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
@@ -30,7 +37,9 @@
     "PROPERTYPARTS@1.0.0.2" : "04t7R000000jJIvQAM",
     "michal" : "0Ho7R0000004CI0SAM",
     "SimonTest" : "0HoWU0000000UxN0AU",
-    "SimonTest@1.0.0.0" : "04tWU0000005SOfYAM"
+    "SimonTest@1.0.0.0" : "04tWU0000005SOfYAM",
+    "DevPackage" : "0HogL000000010vSAA",
+    "DevPackage@1.0.0.0" : "04tgL00000008QbQAI"
   },
   "name" : "wQ6hYnWJEM3Ria6N_retrieve"
 }
