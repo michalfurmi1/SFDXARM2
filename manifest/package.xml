@@ -2,6 +2,7 @@
     <version>58.0</version>
     <types>
         <members>DevLog__c.Active__c</members>
+        <members>DevLog__c.Sai__c</members>
         <members>DevLog__c.Text__c</members>
         <name>CustomField</name>
     </types>

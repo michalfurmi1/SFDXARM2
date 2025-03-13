@@ -25,7 +25,7 @@
     "package" : "DevPackage",
     "scopeProfiles" : "false",
     "versionName" : "DevPackage",
-    "versionNumber" : "1.0.0.4"
+    "versionNumber" : "1.0.0.5"
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
@@ -41,7 +41,8 @@
     "DevPackage" : "0HogL000000010vSAA",
     "DevPackage@1.0.0.0" : "04tgL00000008TpQAI",
     "DevPackage@1.0.0.1" : "04tgL00000008btQAA",
-    "DevPackage@1.0.0.4" : "04tgL00000008jxQAA"
+    "DevPackage@1.0.0.4" : "04tgL00000008jxQAA",
+    "DevPackage@1.0.0.5" : "04tgL0000000BWXQA2"
   },
   "name" : "wQ6hYnWJEM3Ria6N_retrieve"
 }
